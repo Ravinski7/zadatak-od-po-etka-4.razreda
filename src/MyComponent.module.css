@@ -1,0 +1,11 @@
+.kutija{
+    background-color: magenta;
+    color: azure;
+    font-size: xx-large;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px;
+    display: inline-block;
+    margin-inline-start: 20px;
+
+}
